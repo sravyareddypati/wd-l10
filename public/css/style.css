@@ -4,6 +4,6 @@ body {
 }
 
 .todoItem:hover .trashIcone {
-  display: inline-block;
+  display: block;
 }
 /* hey */
